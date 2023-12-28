@@ -1,0 +1,19 @@
+{
+  "name": "simple-api-testing",
+  "version": "1.0.0",
+  "description": "A simple API testing from youtube video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Code",
+    "by",
+    "Arun.webcode"
+  ],
+  "author": "Arun Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^21.2.0"
+  }
+}
